@@ -47,11 +47,5 @@ Sou apaixonada por tecnologia, programação e UX/UI. Adoro criar protótipos, e
 
 ---
 
-### 📂 Meus Projetos
-- [Sistema de Login em Java](https://github.com/JulianaSilva739/Sistema-Login) – Sistema simples de autenticação com validação de login e senha.
-- [Galeria de Imagens com CSS](https://github.com/JulianaSilva739/Galeria-CSS) – Projeto para estudo de layouts responsivos e FlexBox.
-
----
-
 ### 📊 GitHub Stats
 ![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianaSilva739&show_icons=true&theme=radical)
